@@ -1,0 +1,112 @@
+.ct-tabs {
+	.ct-grid {
+		.grid-item {
+			position: static !important;
+		}
+		.ct-grid-masonry {
+			height: auto !important;
+		}
+	}
+	.ct-tab-content > .elementor {
+		margin: 0 -15px;
+	}
+}
+.ct-tabs1 {
+	.ct-tabs-title {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -5px 20px -5px;
+		.ct-tab-title {
+			line-height: 50px;
+			padding: 0 38px;
+			background-color: #1e2845;
+			@include box-shadow(none);
+			margin: 0 5px 10px 5px;
+			@media #{$max-sm} {
+				padding: 0 24px;
+			}
+			i.bravisicon-angle-arrow-right {
+				margin-left: 4px;
+				font-size: 10px;
+			}
+			&.active {
+				background-color: $secondary_color;
+				@include box-shadow(0 10px 30px rgba($secondary_color_hex, 0.35));
+			}
+		}
+	}
+	.ct-tab-content {
+        display: none;
+    }
+    .ct-tab-content > .elementor {
+		margin: 0;
+	}
+}
+
+.ct-tabs2 {
+	.ct-tabs-title {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -5px 20px -5px;
+		.ct-tab-title {
+			line-height: 34px;
+			padding: 0 22px;
+			background-color: #f2f6ff;
+			@include box-shadow(none);
+			@include border-radius(5px);
+			margin: 0 5px 10px 5px;
+			font-size: 14px;
+			color: #1b2336;
+			@media #{$max-sm} {
+				padding: 0 24px;
+			}
+			&.active {
+				background-color: $primary_color;
+				@include box-shadow(0 10px 30px rgba($primary_color_hex, 0.35));
+			}
+		}
+	}
+	.ct-tab-content {
+        display: none;
+    }
+}
+
+.ct-tabs3 {
+	.ct-tabs-title {
+		border-bottom: 2px solid #eff0f2;
+		margin-bottom: 32px;
+		.ct-tab-title {
+			font-size: 20px;
+			color: #1b2336;
+			font-weight: 600;
+			@include font-family-heading($heading_default_font);
+			display: inline-flex;
+			line-height: 65px;
+			margin-right: 40px;
+			position: relative;
+			cursor: pointer;
+			&:before {
+				content: '';
+				height: 3px;
+				background-color: $primary_color;
+				position: absolute;
+				bottom: -2px;
+				left: 0;
+				z-index: 99;
+				width: 0;
+				@include transition(.3s cubic-bezier(.24,.74,.58,1));
+			}
+			&:hover, &.active {
+				&:before {
+					width: 100%;
+				}
+			}
+		}
+	}
+	.ct-tab-content > .elementor {
+		margin: 0;
+	}
+	.ct-tab-content {
+        display: none;
+    }
+}

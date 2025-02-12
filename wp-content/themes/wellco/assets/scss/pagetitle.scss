@@ -1,0 +1,100 @@
+#pagetitle {
+	background-color: #040d25;
+	padding: 167px 0 185px;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	&:before {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: -1;
+		width: 100%;
+		height: 100%;
+		background-image: url(../images/ptitle-overlay.png);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: cover;
+	}
+	&.hide-overlay:before {
+		background-image: none;
+	}
+	.page-title {
+		color: #fff;
+		font-size: 60px;
+		line-height: 1.33333;
+		letter-spacing: -0.03em;
+		margin-bottom: 0;
+		margin-left: auto;
+		margin-right: auto;
+		@media #{$max-md} {
+			font-size: 48px;
+		}
+		@media #{$max-sm} {
+			font-size: 42px;
+		}
+	}
+	.page-title-inner {
+		@include transition(.3s cubic-bezier(.24,.74,.58,1));
+		max-width: 960px;
+	}
+	.ptitle-particle {
+		position: absolute;
+		z-index: -1;
+		&.ptitle-particle1 {
+			top: 21%;
+			left: 6%;
+			animation: animationFramesOne 12s infinite linear alternate;
+		}
+		&.ptitle-particle2 {
+			left: 12%;
+			bottom: 16%;
+			animation: animationFramesThree 12s infinite linear alternate;
+		}
+		&.ptitle-particle3 {
+			top: 14%;
+			animation: animationFramesFour 12s infinite linear alternate;
+			right: 25%;
+		}
+		&.ptitle-particle4 {
+			bottom: 20%;
+			right: 32%;
+			animation: animationFramesThree 12s infinite linear alternate;
+		}
+	}
+}
+
+.ct-breadcrumb {
+	margin: 12px 0 0;
+	list-style: none;
+	color: #ffffff;
+	li {
+		display: inline-block;
+		font-size: 18px;
+		font-weight: 600;
+		@include font-family-heading($heading_default_font);
+		color: inherit;
+		@media #{$max-sm} {
+			font-size: 15px;
+		}
+		&:after {
+			content: "\f104";
+			margin: 0 12px;
+			color: inherit;
+			font-family: Bravisicon;
+			font-size: 12px;
+		}
+		a {
+			color: inherit;
+			&:hover {
+				color: $primary_color;
+			}
+		}
+		&:last-child {
+			&:after {
+				display: none;
+			}
+		}
+	}
+}

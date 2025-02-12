@@ -1,0 +1,1201 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "system_colors": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "color": "#1B2336"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "color": "#4B83FC"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "color": "#415674"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "color": "#66CFA9"
+            }
+        ],
+        "custom_colors": [
+            {
+                "_id": "31e6f4c",
+                "title": "white",
+                "color": "#FFFFFF"
+            },
+            {
+                "_id": "4696eb7",
+                "title": "New Item #2",
+                "color": "#4B83FC12"
+            },
+            {
+                "_id": "05131c3",
+                "title": "line",
+                "color": "#1E28451A"
+            },
+            {
+                "_id": "945e685",
+                "title": "New Item #4",
+                "color": "#FFBD40"
+            },
+            {
+                "_id": "eaf9c4d",
+                "title": "New Item #5",
+                "color": "#DADADA"
+            },
+            {
+                "_id": "9f3060b",
+                "title": "text-02",
+                "color": "#1E2845"
+            },
+            {
+                "_id": "b16c0b0",
+                "title": "New Item #7",
+                "color": "#1E28450F"
+            },
+            {
+                "_id": "2cdf484",
+                "title": "New Item #8",
+                "color": "#B6BFDA"
+            },
+            {
+                "_id": "6bd5bbb",
+                "title": "bg-team",
+                "color": "#F2F6FF"
+            },
+            {
+                "_id": "cc3679f",
+                "title": "New Item #10",
+                "color": "#A9B8DD"
+            },
+            {
+                "_id": "ccb5824",
+                "title": "New Item #11",
+                "color": "#283455"
+            }
+        ],
+        "system_typography": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 42,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 32,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 28,
+                    "sizes": []
+                },
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -1.3000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 2,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_weight": "600",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.86699999999999999289457264239899814128875732421875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 24,
+                    "sizes": []
+                },
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            }
+        ],
+        "custom_typography": [
+            {
+                "_id": "f7007b2",
+                "title": "font-nuni-14-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 2.286000000000000031974423109204508364200592041015625,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "95c0109",
+                "title": "font-raleway-90-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 90,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 35,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.05600000000000004973799150320701301097869873046875,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -2.79999999999999982236431605997495353221893310546875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "6fbeec1",
+                "title": "font-raleway-90-100",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 90,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 35,
+                    "sizes": []
+                },
+                "typography_font_weight": "100",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.05600000000000004973799150320701301097869873046875,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -2.899999999999999911182158029987476766109466552734375,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "3b88515",
+                "title": "font-menu",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                },
+                "typography_font_weight": "900",
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 2.286000000000000031974423109204508364200592041015625,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "a57e84d",
+                "title": "font-nuni-18-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.778000000000000024868995751603506505489349365234375,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "b65ae11",
+                "title": "font-raleway-24-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 24,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.4579999999999999626965063725947402417659759521484375,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -0.8000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "6b9e1f8",
+                "title": "font-raleway-20-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -0.59999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "ff4765f",
+                "title": "font-nuni-15-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "574ca16",
+                "title": "font-raleway-16-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 2,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "342c8bb",
+                "title": "font-raleway-20-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "typography_line_height_tablet": {
+                    "unit": "em",
+                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "dc1712f",
+                "title": "font-nuni-85-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 85,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -2.79999999999999982236431605997495353221893310546875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "51bfd91",
+                "title": "font-raleway-22-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.2729999999999999094058011905872263014316558837890625,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "adb842a",
+                "title": "font-nuni-48-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 48,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "e554dd7",
+                "title": "font-raleway-22-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3640000000000001012523398458142764866352081298828125,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -0.59999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "44daa0b",
+                "title": "font-raleway-18-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.55600000000000004973799150320701301097869873046875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "e2e6050",
+                "title": "font-nuni-18-500",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.9499999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "ba73bcc",
+                "title": "font-nuni-16-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                },
+                "typography_font_weight": "800",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "2b902e1",
+                "title": "font-raleway-18-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.778000000000000024868995751603506505489349365234375,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "31b3f51",
+                "title": "font-nuni-15-500",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "9943a7a",
+                "title": "font-nuni-15-400",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.86699999999999999289457264239899814128875732421875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "c695308",
+                "title": "font-raleway-20-600-01",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -0.59999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "b1d9108",
+                "title": "font-raleway-50-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 40,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 45,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "5713a79",
+                "title": "New Item #23",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.5909999999999999698019337301957421004772186279296875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "498cc3d",
+                "title": "font-raleway-18-500",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3890000000000000124344978758017532527446746826171875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "956f689",
+                "title": "font-raleway-22-600-01",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "c066635",
+                "title": "font-raleway-150-700",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 150,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 120,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 120,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.05600000000000004973799150320701301097869873046875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "19ab671",
+                "title": "font-raleway-42-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 42,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 30,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -1.1999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "325a116",
+                "title": "font-nuni-15-400-01",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 2.149999999999999911182158029987476766109466552734375,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "dd00ec9",
+                "title": "font-raleway-24-600-01",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 24,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.3000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "eb4c84e",
+                "title": "font-raleway-48-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 48,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 35,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 28,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "capitalize",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.149999999999999911182158029987476766109466552734375,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -1.5,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "35d50fb",
+                "title": "text-course",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 2,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "87c1046",
+                "title": "font-raleway-18-italic",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_text_transform": "none",
+                "typography_font_style": "italic",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.6670000000000000373034936274052597582340240478515625,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "dc6b8ed",
+                "title": "font-nuni-14-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Nunito Sans",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 14,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 16,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.8569999999999999840127884453977458178997039794921875,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "0d3c212",
+                "title": "font-nuni-18-700-02",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 18,
+                    "sizes": []
+                },
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.5,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": 0,
+                    "sizes": []
+                }
+            },
+            {
+                "_id": "aeb5a91",
+                "title": "font-raleway-30-600",
+                "typography_typography": "custom",
+                "typography_font_family": "Raleway",
+                "typography_font_size": {
+                    "unit": "px",
+                    "size": 30,
+                    "sizes": []
+                },
+                "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": []
+                },
+                "typography_font_weight": "600",
+                "typography_text_transform": "none",
+                "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.6670000000000000373034936274052597582340240478515625,
+                    "sizes": []
+                },
+                "typography_letter_spacing": {
+                    "unit": "px",
+                    "size": -1,
+                    "sizes": []
+                },
+                "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 20,
+                    "sizes": []
+                }
+            }
+        ],
+        "default_generic_fonts": "Sans-serif",
+        "body_color": "#415674",
+        "body_typography_typography": "custom",
+        "body_typography_font_family": "Nunito Sans",
+        "body_typography_font_size": {
+            "unit": "px",
+            "size": 15,
+            "sizes": []
+        },
+        "body_typography_font_weight": "600",
+        "body_typography_text_transform": "none",
+        "body_typography_line_height": {
+            "unit": "em",
+            "size": 1.86699999999999999289457264239899814128875732421875,
+            "sizes": []
+        },
+        "h1_color": "#1B2336",
+        "h1_typography_typography": "custom",
+        "h1_typography_font_family": "Raleway",
+        "h1_typography_font_size": {
+            "unit": "px",
+            "size": 90,
+            "sizes": []
+        },
+        "h1_typography_font_size_tablet": {
+            "unit": "px",
+            "size": 50,
+            "sizes": []
+        },
+        "h1_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 35,
+            "sizes": []
+        },
+        "h1_typography_font_weight": "700",
+        "h1_typography_text_transform": "none",
+        "h1_typography_line_height": {
+            "unit": "em",
+            "size": 1.05600000000000004973799150320701301097869873046875,
+            "sizes": []
+        },
+        "h2_color": "#1B2336",
+        "h2_typography_typography": "custom",
+        "h2_typography_font_family": "Raleway",
+        "h2_typography_font_size": {
+            "unit": "px",
+            "size": 42,
+            "sizes": []
+        },
+        "h2_typography_font_size_tablet": {
+            "unit": "px",
+            "size": 32,
+            "sizes": []
+        },
+        "h2_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 28,
+            "sizes": []
+        },
+        "h2_typography_font_weight": "700",
+        "h2_typography_text_transform": "none",
+        "h2_typography_line_height": {
+            "unit": "em",
+            "size": 1.189999999999999946709294817992486059665679931640625,
+            "sizes": []
+        },
+        "h3_color": "#1B2336",
+        "h3_typography_typography": "custom",
+        "h3_typography_font_family": "Raleway",
+        "h3_typography_font_size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+        },
+        "h3_typography_font_size_tablet": {
+            "unit": "px",
+            "size": 25,
+            "sizes": []
+        },
+        "h3_typography_font_size_mobile": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+        },
+        "h3_typography_font_weight": "600",
+        "h3_typography_text_transform": "none",
+        "h3_typography_line_height": {
+            "unit": "em",
+            "size": 1.6670000000000000373034936274052597582340240478515625,
+            "sizes": []
+        },
+        "h4_color": "#1B2336",
+        "h4_typography_typography": "custom",
+        "h4_typography_font_family": "Raleway",
+        "h4_typography_font_size": {
+            "unit": "px",
+            "size": 24,
+            "sizes": []
+        },
+        "h4_typography_font_size_tablet": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+        },
+        "h4_typography_font_weight": "600",
+        "h4_typography_text_transform": "none",
+        "h4_typography_line_height": {
+            "unit": "em",
+            "size": 1.1999999999999999555910790149937383830547332763671875,
+            "sizes": []
+        },
+        "h5_color": "#1B2336",
+        "h5_typography_typography": "custom",
+        "h5_typography_font_family": "Raleway",
+        "h5_typography_font_size": {
+            "unit": "px",
+            "size": 20,
+            "sizes": []
+        },
+        "h5_typography_font_weight": "600",
+        "h5_typography_text_transform": "none",
+        "h5_typography_line_height": {
+            "unit": "em",
+            "size": 1.1999999999999999555910790149937383830547332763671875,
+            "sizes": []
+        },
+        "h6_typography_typography": "custom",
+        "h6_typography_font_family": "Nunito Sans",
+        "h6_typography_font_size": {
+            "unit": "px",
+            "size": 14,
+            "sizes": []
+        },
+        "h6_typography_font_weight": "700",
+        "h6_typography_text_transform": "uppercase",
+        "h6_typography_line_height": {
+            "unit": "em",
+            "size": 2,
+            "sizes": []
+        },
+        "button_border_radius": {
+            "unit": "px",
+            "top": "28",
+            "right": "28",
+            "bottom": "28",
+            "left": "28",
+            "isLinked": true
+        },
+        "button_padding": {
+            "unit": "px",
+            "top": "13",
+            "right": "41",
+            "bottom": "10",
+            "left": "40",
+            "isLinked": false
+        },
+        "page_title_selector": "h1.entry-title",
+        "hello_footer_copyright_text": "All rights reserved",
+        "activeItemIndex": 1,
+        "__globals__": {
+            "body_color": "globals\/colors?id=text",
+            "body_typography_typography": "",
+            "h1_color": "globals\/colors?id=primary",
+            "h1_typography_typography": "globals\/typography?id=95c0109",
+            "h2_color": "globals\/colors?id=primary",
+            "h2_typography_typography": "globals\/typography?id=primary",
+            "h3_color": "globals\/colors?id=primary",
+            "h4_color": "globals\/colors?id=primary",
+            "h5_color": "globals\/colors?id=primary",
+            "h6_color": "globals\/colors?id=secondary",
+            "h6_typography_typography": "",
+            "button_typography_typography": "globals\/typography?id=f7007b2",
+            "button_text_color": "globals\/colors?id=31e6f4c",
+            "button_background_color": "globals\/colors?id=accent",
+            "button_hover_text_color": "globals\/colors?id=31e6f4c",
+            "button_hover_background_color": "globals\/colors?id=secondary"
+        },
+        "viewport_md": 768,
+        "viewport_lg": 1025,
+        "h4_typography_letter_spacing": {
+            "unit": "px",
+            "size": -0.59999999999999997779553950749686919152736663818359375,
+            "sizes": []
+        },
+        "h3_typography_letter_spacing": {
+            "unit": "px",
+            "size": -1,
+            "sizes": []
+        }
+    }
+}

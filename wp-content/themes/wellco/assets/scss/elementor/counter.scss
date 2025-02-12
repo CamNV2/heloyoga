@@ -1,0 +1,75 @@
+.ct-counter-layout1 {
+	&.style1 {
+		.ct-counter-icon {
+			line-height: 1;
+			margin-right: 22px;
+			margin-top: -3px;
+			i {
+				font-size: 54px;
+				color: $primary_color;
+				@media #{$max-md} {
+					font-size: 48px;
+				}
+			}
+			&.icon-img {
+				width: 60px;
+				min-width: 60px;
+			}
+		}
+		.ct-counter-number {
+			line-height: 1;
+			font-size: 40px;
+			color: #1b2336;
+			font-weight: 700;
+			margin-bottom: 4px;
+			display: inline-flex;
+			align-items: flex-start;
+			@media #{$max-md} {
+				font-size: 36px;
+			}
+			.ct-counter-number-suffix, .ct-counter-number-prefix {
+			    font-size: 76%;
+			    position: relative;
+			    top: -5px;
+			    color: $primary_color;
+			}
+		}
+		.ct-counter-title {
+			font-size: 16px;
+			font-weight: 600;
+		}
+		.ct-counter-inner {
+			display: flex;
+			flex-wrap: nowrap;
+			align-items: center;
+			background-color: #fff;
+			padding: 30px;
+			@include border-radius(7px);
+			@include box-shadow(0 10px 30px rgba($primary_color_hex, 0.1));
+			@include transition(.3s cubic-bezier(.24,.74,.58,1));
+			@media #{$max-sm} {
+				padding-left: 30px;
+			}
+			&:hover {
+				@include transform(translate(0, -12px));
+			}
+		}
+	}
+	&.style2 {
+		.ct-counter-icon {
+			i {
+				font-size: 48px;
+				color: $primary_color;
+			}
+		}
+		.ct-counter-number {
+			font-size: 45px;
+			line-height: 1;
+			font-weight: 700;
+			color: $primary_color;
+			@include font-family-heading($heading_default_font);
+			display: inline-flex;
+			align-items: center;
+		}
+	}
+}

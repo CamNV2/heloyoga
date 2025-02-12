@@ -1,0 +1,268 @@
+{
+    "version": "0.4",
+    "title": "Tab Faq For Page Our Faq",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-faq",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "1a450de6",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2e6ecdc8",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "55b0fc9a",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "We Teach You How To Coach Yourself.",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "b3cc938"
+                                    },
+                                    {
+                                        "acc_title": "We Teach You How To Feel Better.",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "b320272"
+                                    },
+                                    {
+                                        "acc_title": "We Teach You How To Take Massive Action.",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "2b3e75e"
+                                    },
+                                    {
+                                        "acc_title": "Be Less Frustrated By Learning Relationship Tools",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "6a1dd1a"
+                                    },
+                                    {
+                                        "acc_title": "Motivate Yourself To Get More Done In Less Time",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "b45c0fb"
+                                    },
+                                    {
+                                        "acc_title": "Ease Anxiety, Stress, Worry, And Boredom",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "ce937c0"
+                                    },
+                                    {
+                                        "acc_title": "Process Emotion And Create More Energy",
+                                        "acc_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip\u00a0 ea commodo consequat. Duis irure dolor in reprehenderit voluptate cillum dolore fugiat nulla pariatur<\/p>",
+                                        "ekit_acc_is_active": "",
+                                        "_id": "a7b4fdc"
+                                    }
+                                ],
+                                "ekit_accordion_right_icons": {
+                                    "value": "fas fa-angle-right",
+                                    "library": "fa-solid"
+                                },
+                                "ekit_accordion_right_icon_actives": {
+                                    "value": "fas fa-angle-down",
+                                    "library": "fa-solid"
+                                },
+                                "ekit_accordion_background_background": "classic",
+                                "ekit_accordion_title_border_open_border": "solid",
+                                "ekit_accordion_title_border_open_width": {
+                                    "unit": "px",
+                                    "top": "1.5",
+                                    "right": "1.5",
+                                    "bottom": "1.5",
+                                    "left": "1.5",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_box_shadow_open_box_shadow_type": "yes",
+                                "ekit_accordion_box_shadow_open_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 10,
+                                    "blur": 30,
+                                    "spread": 0,
+                                    "color": "rgba(75.00000000000004, 131, 252, 0.15)"
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_title_border_close_border": "solid",
+                                "ekit_accordion_title_border_close_width": {
+                                    "unit": "px",
+                                    "top": "1.5",
+                                    "right": "1.5",
+                                    "bottom": "1.5",
+                                    "left": "1.5",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_border_close_color": "#1E284512",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_title_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "0",
+                                    "bottom": "14",
+                                    "left": "29",
+                                    "isLinked": false
+                                },
+                                "ekit_accordion_title_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "10",
+                                    "bottom": "16",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_accordion_border_open_border": "solid",
+                                "ekit_accordion_border_open_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_accordion_background_color": "globals\/colors?id=31e6f4c",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=31e6f4c",
+                                    "ekit_accordion_title_border_open_color": "globals\/colors?id=31e6f4c",
+                                    "ekit_accordion_content_typography_typography": "globals\/typography?id=text",
+                                    "ekit_accordion_icon_color_close": "globals\/colors?id=secondary",
+                                    "ekit_accordion_icon_color": "globals\/colors?id=secondary",
+                                    "ekit_accordion_title_typography_typography": "globals\/typography?id=44daa0b",
+                                    "ekit_accordion_title_color": "globals\/colors?id=primary",
+                                    "ekit_accordion_content_color": "globals\/colors?id=text"
+                                },
+                                "ekit_accordion_section_icon_margin": {
+                                    "unit": "px",
+                                    "top": "-3",
+                                    "right": "29",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_accordion_title_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_accordion_content_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "10",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_accordion_title_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "30",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "ekit_accordion_content_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "15",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

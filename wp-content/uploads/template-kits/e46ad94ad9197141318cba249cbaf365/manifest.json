@@ -1,0 +1,5055 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Wellco - Coaching & Speaker Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Courses",
+            "screenshot": "screenshots\/our-courses.jpg",
+            "source": "templates\/our-courses.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-courses\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact Us",
+            "screenshot": "screenshots\/form-contact-us.jpg",
+            "source": "templates\/form-contact-us.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/form-contact-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Project Block for Page Portfolio Grid",
+            "screenshot": "screenshots\/tab-project-block-for-page-portfolio-grid.jpg",
+            "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/tab-project-block-for-page-portfolio-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Video Gallery Block For Page Video",
+            "screenshot": "screenshots\/tab-video-gallery-block-for-page-video.jpg",
+            "source": "templates\/tab-video-gallery-block-for-page-video.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/tab-video-gallery-block-for-page-video\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Video Gallery Block For Page Home 01",
+            "screenshot": "screenshots\/tab-video-gallery-block-for-page-home-01.jpg",
+            "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/tab-video-gallery-block-for-page-home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Popular Block 01 For Page Home 02",
+            "screenshot": "screenshots\/slider-popular-block-01-for-page-home-02.jpg",
+            "source": "templates\/slider-popular-block-01-for-page-home-02.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/slider-popular-block-01-for-page-home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Testimonial Block 01 for Home 03",
+            "screenshot": "screenshots\/slider-testimonial-block-01-for-home-03.jpg",
+            "source": "templates\/slider-testimonial-block-01-for-home-03.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/slider-testimonial-block-01-for-home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Testimonial Block 01 for About Us",
+            "screenshot": "screenshots\/slider-testimonial-block-01-for-about-us.jpg",
+            "source": "templates\/slider-testimonial-block-01-for-about-us.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/slider-testimonial-block-01-for-about-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Description For Page Course Details",
+            "screenshot": "screenshots\/tab-description-for-page-course-details.jpg",
+            "source": "templates\/tab-description-for-page-course-details.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/tab-description-for-page-course-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Testimonial Block for Home 02",
+            "screenshot": "screenshots\/slider-testimonial-block-for-home-02.jpg",
+            "source": "templates\/slider-testimonial-block-for-home-02.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/slider-testimonial-block-for-home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Slider Testimonial Block 01 for Home 01",
+            "screenshot": "screenshots\/slider-testimonial-block-01-for-home-01.jpg",
+            "source": "templates\/slider-testimonial-block-01-for-home-01.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/slider-testimonial-block-01-for-home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Pricing Block For Page Home 03",
+            "screenshot": "screenshots\/tab-pricing-block-for-page-home-03.jpg",
+            "source": "templates\/tab-pricing-block-for-page-home-03.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/tab-pricing-block-for-page-home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Tab Faq For Page Our Faq",
+            "screenshot": "screenshots\/tab-faq-for-page-our-faq.jpg",
+            "source": "templates\/tab-faq-for-page-our-faq.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/tab-faq-for-page-our-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses Details",
+            "screenshot": "screenshots\/courses-details.jpg",
+            "source": "templates\/courses-details.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/courses-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 01",
+            "screenshot": "screenshots\/header-style-01.jpg",
+            "source": "templates\/header-style-01.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/header-style-01\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Faqs",
+            "screenshot": "screenshots\/form-faqs.jpg",
+            "source": "templates\/form-faqs.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/form-faqs\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 02",
+            "screenshot": "screenshots\/form-home-02.jpg",
+            "source": "templates\/form-home-02.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/form-home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/about-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 03",
+            "screenshot": "screenshots\/home-03.jpg",
+            "source": "templates\/home-03.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/home-03\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Service",
+            "screenshot": "screenshots\/our-service.jpg",
+            "source": "templates\/our-service.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-service\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-team\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Video",
+            "screenshot": "screenshots\/our-video.jpg",
+            "source": "templates\/our-video.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-video\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Details",
+            "screenshot": "screenshots\/portfolio-details.jpg",
+            "source": "templates\/portfolio-details.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/portfolio-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Grid",
+            "screenshot": "screenshots\/portfolio-grid.jpg",
+            "source": "templates\/portfolio-grid.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/portfolio-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Details",
+            "screenshot": "screenshots\/team-details.jpg",
+            "source": "templates\/team-details.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/team-details\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Faq",
+            "screenshot": "screenshots\/our-faq.jpg",
+            "source": "templates\/our-faq.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Events",
+            "screenshot": "screenshots\/our-events.jpg",
+            "source": "templates\/our-events.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-events\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 02",
+            "screenshot": "screenshots\/home-02.jpg",
+            "source": "templates\/home-02.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/home-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 01",
+            "screenshot": "screenshots\/home-01.jpg",
+            "source": "templates\/home-01.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 03",
+            "screenshot": "screenshots\/footer-style-03.jpg",
+            "source": "templates\/footer-style-03.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/footer-style-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 02",
+            "screenshot": "screenshots\/footer-style-02.jpg",
+            "source": "templates\/footer-style-02.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/footer-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 01",
+            "screenshot": "screenshots\/footer-style-01.jpg",
+            "source": "templates\/footer-style-01.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/footer-style-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 03",
+            "screenshot": "screenshots\/header-style-03.jpg",
+            "source": "templates\/header-style-03.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/header-style-03\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style 02",
+            "screenshot": "screenshots\/header-style-02.jpg",
+            "source": "templates\/header-style-02.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/header-style-02\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Pricing",
+            "screenshot": "screenshots\/our-pricing.jpg",
+            "source": "templates\/our-pricing.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/our-pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Home 01",
+            "screenshot": "screenshots\/form-home-01.jpg",
+            "source": "templates\/form-home-01.json",
+            "preview_url": "https:\/\/demothemesflat.co\/wellcokit\/template-kit\/form-home-01\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.13.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.8",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.3.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.9.6",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "img_banner_innerpages-X8FG98T.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_banner_innerpages-X8FG98T.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 317017,
+            "dimensions": [
+                1920,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X8FG98T"
+        },
+        {
+            "filename": "icon-coach-01-1-1.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-coach-01-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 946,
+            "dimensions": [
+                77,
+                17
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-provide-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 610,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-circle-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-circle-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 233,
+            "dimensions": [
+                15,
+                15
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-circle-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-circle-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 390,
+            "dimensions": [
+                25,
+                25
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_popular_Home01-2-ZPMNYUG.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home01-2-ZPMNYUG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 32348,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2-ZPMNYUG"
+        },
+        {
+            "filename": "img_popular_Home01-5NGCGFQ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home01-5NGCGFQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/slider-popular-block-01-for-page-home-02.json",
+                    "name": "Slider Popular Block 01 For Page Home 02"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3594,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5NGCGFQ"
+        },
+        {
+            "filename": "img_popular_Home01-02-P7PARHB.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home01-02-P7PARHB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 27718,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7PARHB"
+        },
+        {
+            "filename": "img_popular_Home01-GP9AXP9.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home01-GP9AXP9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3544,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GP9AXP9"
+        },
+        {
+            "filename": "img_popular_Home01-02-ER3ULG7.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home01-02-ER3ULG7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 29475,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ER3ULG7"
+        },
+        {
+            "filename": "img_popular_Home01-TK55CJJ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home01-TK55CJJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2997,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TK55CJJ"
+        },
+        {
+            "filename": "img_popular_Home02-RKDU53J.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_popular_Home02-RKDU53J.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/slider-popular-block-01-for-page-home-02.json",
+                    "name": "Slider Popular Block 01 For Page Home 02"
+                }
+            ],
+            "filesize": 124431,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RKDU53J"
+        },
+        {
+            "filename": "img_Team-6CHT7KZ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-6CHT7KZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 29897,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6CHT7KZ"
+        },
+        {
+            "filename": "img-popular-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-popular-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                }
+            ],
+            "filesize": 164541,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_Team-MTT5NC3.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-MTT5NC3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 26842,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MTT5NC3"
+        },
+        {
+            "filename": "img_Team-PX8U93P.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-PX8U93P.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 43830,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PX8U93P"
+        },
+        {
+            "filename": "img_adminssion-5R4YBMZ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_adminssion-5R4YBMZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 146969,
+            "dimensions": [
+                773,
+                644
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5R4YBMZ"
+        },
+        {
+            "filename": "img_Team-PYUUM3T.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-PYUUM3T.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 31290,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYUUM3T"
+        },
+        {
+            "filename": "img_project_Home03-5BR8DFM.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_project_Home03-5BR8DFM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 154472,
+            "dimensions": [
+                636,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5BR8DFM"
+        },
+        {
+            "filename": "img_Team-RXLS2JH.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-RXLS2JH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 55721,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RXLS2JH"
+        },
+        {
+            "filename": "img-courses-02.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-courses-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                }
+            ],
+            "filesize": 193176,
+            "dimensions": [
+                416,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "icon-shape-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-shape-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2392,
+            "dimensions": [
+                122,
+                115
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-shape-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-shape-05.png",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 756,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_project_Home03-5NGCGFQ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_project_Home03-5NGCGFQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 132064,
+            "dimensions": [
+                636,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5NGCGFQ"
+        },
+        {
+            "filename": "img_Home03-5BR8DFM.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Home03-5BR8DFM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-courses.json",
+                    "name": "Our Courses"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                },
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 47091,
+            "dimensions": [
+                636,
+                384
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5BR8DFM"
+        },
+        {
+            "filename": "img_Portfolio-AXMM8EX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-AXMM8EX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                }
+            ],
+            "filesize": 130518,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AXMM8EX"
+        },
+        {
+            "filename": "img_Portfolio-7TBASU6.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-7TBASU6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                }
+            ],
+            "filesize": 98807,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7TBASU6"
+        },
+        {
+            "filename": "img_Portfolio-S7HX5MH.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-S7HX5MH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                }
+            ],
+            "filesize": 131125,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S7HX5MH"
+        },
+        {
+            "filename": "img-portfolio-04.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-portfolio-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                }
+            ],
+            "filesize": 105684,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_Portfolio-6QC9TGX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-6QC9TGX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                }
+            ],
+            "filesize": 121743,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6QC9TGX"
+        },
+        {
+            "filename": "img_Portfolio-P8BGSB5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-P8BGSB5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                }
+            ],
+            "filesize": 121597,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8BGSB5"
+        },
+        {
+            "filename": "img-portfolio-07.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-portfolio-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                }
+            ],
+            "filesize": 159590,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_Portfolio-AZYZR37.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-AZYZR37.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                }
+            ],
+            "filesize": 130047,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AZYZR37"
+        },
+        {
+            "filename": "img_Portfolio-VSWUNFX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Portfolio-VSWUNFX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-project-block-for-page-portfolio-grid.json",
+                    "name": "Tab Project Block for Page Portfolio Grid"
+                },
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 159151,
+            "dimensions": [
+                416,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VSWUNFX"
+        },
+        {
+            "filename": "img_testimonial_Home01-P8BGSB5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-P8BGSB5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 98080,
+            "dimensions": [
+                416,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8BGSB5"
+        },
+        {
+            "filename": "img_testimonial_Home01-L7ZTSUY.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-L7ZTSUY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 96092,
+            "dimensions": [
+                416,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7ZTSUY"
+        },
+        {
+            "filename": "img_testimonial_Home01-HGSUPL6.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-HGSUPL6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 88690,
+            "dimensions": [
+                416,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HGSUPL6"
+        },
+        {
+            "filename": "img_testimonial_Home01-BL93Y2F..jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-BL93Y2F..jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 73580,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BL93Y2F"
+        },
+        {
+            "filename": "img_testimonial_Home01-NY3JCZP.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-NY3JCZP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 85574,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NY3JCZP"
+        },
+        {
+            "filename": "img_testimonial_Home01-9UVUYVS.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-9UVUYVS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 91451,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9UVUYVS"
+        },
+        {
+            "filename": "img_testimonial_Home01-QMRNLN9.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-QMRNLN9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                },
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-home-01.json",
+                    "name": "Tab Video Gallery Block For Page Home 01"
+                }
+            ],
+            "filesize": 77185,
+            "dimensions": [
+                306,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QMRNLN9"
+        },
+        {
+            "filename": "img_Video-WKQ6RGV.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Video-WKQ6RGV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                }
+            ],
+            "filesize": 161299,
+            "dimensions": [
+                636,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WKQ6RGV"
+        },
+        {
+            "filename": "img_Video-LRD3NBQ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Video-LRD3NBQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-video-gallery-block-for-page-video.json",
+                    "name": "Tab Video Gallery Block For Page Video"
+                }
+            ],
+            "filesize": 154757,
+            "dimensions": [
+                636,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LRD3NBQ"
+        },
+        {
+            "filename": "img_team_Home01-2GB5STW.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_team_Home01-2GB5STW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-testimonial-block-01-for-home-03.json",
+                    "name": "Slider Testimonial Block 01 for Home 03"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 10298,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2GB5STW"
+        },
+        {
+            "filename": "img_team_Home01-2EUPHX7.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_team_Home01-2EUPHX7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/slider-testimonial-block-01-for-about-us.json",
+                    "name": "Slider Testimonial Block 01 for About Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 28710,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EUPHX7"
+        },
+        {
+            "filename": "img_testimonial_Home01-TR9F9YV.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home01-TR9F9YV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-description-for-page-course-details.json",
+                    "name": "Tab Description For Page Course Details"
+                },
+                {
+                    "source": "templates\/slider-testimonial-block-for-home-02.json",
+                    "name": "Slider Testimonial Block for Home 02"
+                },
+                {
+                    "source": "templates\/slider-testimonial-block-01-for-home-01.json",
+                    "name": "Slider Testimonial Block 01 for Home 01"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 4894,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TR9F9YV"
+        },
+        {
+            "filename": "img_counter_Hom03-QPD6FUG.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_counter_Hom03-QPD6FUG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tab-description-for-page-course-details.json",
+                    "name": "Tab Description For Page Course Details"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 142630,
+            "dimensions": [
+                1025,
+                795
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QPD6FUG"
+        },
+        {
+            "filename": "placeholder.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder.png",
+            "templates": [
+                {
+                    "source": "templates\/tab-description-for-page-course-details.json",
+                    "name": "Tab Description For Page Course Details"
+                },
+                {
+                    "source": "templates\/tab-pricing-block-for-page-home-03.json",
+                    "name": "Tab Pricing Block For Page Home 03"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-quote.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-quote.png",
+            "templates": [
+                {
+                    "source": "templates\/slider-testimonial-block-for-home-02.json",
+                    "name": "Slider Testimonial Block for Home 02"
+                }
+            ],
+            "filesize": 714,
+            "dimensions": [
+                40,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-support.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-support.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 2687,
+            "dimensions": [
+                82,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-question.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-question.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 4518,
+            "dimensions": [
+                101,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "placeholder-18.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-18.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-20.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-20.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-21.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-21.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-22.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-22.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "col-sidebar.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/col-sidebar.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 65365,
+            "dimensions": [
+                410,
+                616
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "col-sidebar-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/col-sidebar-01.png",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                }
+            ],
+            "filesize": 53014,
+            "dimensions": [
+                393,
+                502
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img_Testimonial-VRU8T3G.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Testimonial-VRU8T3G.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses-details.json",
+                    "name": "Courses Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 257285,
+            "dimensions": [
+                683,
+                730
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VRU8T3G"
+        },
+        {
+            "filename": "logo-wellco.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/logo-wellco.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-01.json",
+                    "name": "Header Style 01"
+                },
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer Style 03"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                },
+                {
+                    "source": "templates\/header-style-03.json",
+                    "name": "Header Style 03"
+                },
+                {
+                    "source": "templates\/header-style-02.json",
+                    "name": "Header Style 02"
+                }
+            ],
+            "filesize": 2290,
+            "dimensions": [
+                188,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_About-BZ3FLMR.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_About-BZ3FLMR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                }
+            ],
+            "filesize": 45984,
+            "dimensions": [
+                526,
+                570
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BZ3FLMR"
+        },
+        {
+            "filename": "icon-provide.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 1344,
+            "dimensions": [
+                60,
+                57
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-book.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-book.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2863,
+            "dimensions": [
+                65,
+                67
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-advisor.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-advisor.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 3587,
+            "dimensions": [
+                67,
+                67
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-video.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-video.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 2755,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-review.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-review.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 4126,
+            "dimensions": [
+                67,
+                67
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-section.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-section.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 90948,
+            "dimensions": [
+                1600,
+                775
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img_video_About-ESPKHQL.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_video_About-ESPKHQL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 122929,
+            "dimensions": [
+                526,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ESPKHQL"
+        },
+        {
+            "filename": "icon-about-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-about-02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2327,
+            "dimensions": [
+                96,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-about-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-about-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2238,
+            "dimensions": [
+                79,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_team_Home01-P5Z24WS-1.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_team_Home01-P5Z24WS-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 43014,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5Z24WS"
+        },
+        {
+            "filename": "img_team_Home01-QM72TH4..jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_team_Home01-QM72TH4..jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 30031,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QM72TH4"
+        },
+        {
+            "filename": "img_team_Home01-WZV75AM.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_team_Home01-WZV75AM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 32747,
+            "dimensions": [
+                205,
+                205
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WZV75AM"
+        },
+        {
+            "filename": "about-testimonial.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/about-testimonial.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 89948,
+            "dimensions": [
+                1600,
+                775
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "partner-logo-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/partner-logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 3212,
+            "dimensions": [
+                198,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-logo-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/partner-logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 8166,
+            "dimensions": [
+                198,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-logo-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/partner-logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4316,
+            "dimensions": [
+                198,
+                49
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-logo-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/partner-logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 4036,
+            "dimensions": [
+                198,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "partner-logo-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/partner-logo-05.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5256,
+            "dimensions": [
+                216,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_Banner_Home-03-P7WQJ25.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Banner_Home-03-P7WQJ25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 176248,
+            "dimensions": [
+                1920,
+                790
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7WQJ25"
+        },
+        {
+            "filename": "img-counting.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-counting.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 10140,
+            "dimensions": [
+                229,
+                236
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img_about_Home03-5HKKHE4.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_about_Home03-5HKKHE4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 32858,
+            "dimensions": [
+                220,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5HKKHE4"
+        },
+        {
+            "filename": "img_about_Home03-SJGX58A.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_about_Home03-SJGX58A.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 149731,
+            "dimensions": [
+                526,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SJGX58A"
+        },
+        {
+            "filename": "icon-offer-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-offer-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 5333,
+            "dimensions": [
+                80,
+                63
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-offer-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-offer-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4481,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-offer-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-offer-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 3752,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-offer-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-offer-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 2692,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "col-couter-10.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/col-couter-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 39156,
+            "dimensions": [
+                663,
+                858
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-27.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-27.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-28.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-28.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-video-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-video-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 4179,
+            "dimensions": [
+                158,
+                149
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "shape-video-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-video-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 858,
+            "dimensions": [
+                15,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-video-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-video-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 1025,
+            "dimensions": [
+                17,
+                98
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_bg_video-FXMJTZT.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_bg_video-FXMJTZT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                }
+            ],
+            "filesize": 362872,
+            "dimensions": [
+                1296,
+                630
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FXMJTZT"
+        },
+        {
+            "filename": "shape-video-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-video-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                }
+            ],
+            "filesize": 933,
+            "dimensions": [
+                41,
+                41
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "circle-bg-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/circle-bg-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-03.json",
+                    "name": "Home 03"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 16045,
+            "dimensions": [
+                1294,
+                765
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-service-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-service-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 4013,
+            "dimensions": [
+                123,
+                95
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-service-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 5677,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-service-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-service-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 1643,
+            "dimensions": [
+                101,
+                101
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-service-05.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 2779,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-service-06.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-service-06.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 3734,
+            "dimensions": [
+                100,
+                84
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_Services-CMTLCDG.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Services-CMTLCDG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 163661,
+            "dimensions": [
+                659,
+                463
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CMTLCDG"
+        },
+        {
+            "filename": "bg-col-video-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-col-video-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 379115,
+            "dimensions": [
+                607,
+                607
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "icon-provide-06.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide-06.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 931,
+            "dimensions": [
+                102,
+                17
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-provide-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide-05.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 1577,
+            "dimensions": [
+                65,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-provide-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                },
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 322,
+            "dimensions": [
+                15,
+                15
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "placeholder-17.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-17.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-19.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-19.png",
+            "templates": [
+                {
+                    "source": "templates\/our-service.json",
+                    "name": "Our Service"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "our-team-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/our-team-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 37062,
+            "dimensions": [
+                663,
+                858
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "our-team-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/our-team-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 15349,
+            "dimensions": [
+                137,
+                135
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-team-member-1.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-team-member-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 96197,
+            "dimensions": [
+                1920,
+                1483
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img_Team-UX9WTZ3.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-UX9WTZ3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 23860,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UX9WTZ3"
+        },
+        {
+            "filename": "img_team_XD8QTYJ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_team_XD8QTYJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 20724,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XD8QTYJ"
+        },
+        {
+            "filename": "img_Team-3S8UY5J.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Team-3S8UY5J.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 20008,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3S8UY5J"
+        },
+        {
+            "filename": "placeholder-4.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-4.png",
+            "templates": [
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-5.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-9.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-9.png",
+            "templates": [
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-12.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-12.png",
+            "templates": [
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-13.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-13.png",
+            "templates": [
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-14.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-14.png",
+            "templates": [
+                {
+                    "source": "templates\/our-video.json",
+                    "name": "Our Video"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_PortfolioDetails-RBPU7L3.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_PortfolioDetails-RBPU7L3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                }
+            ],
+            "filesize": 396071,
+            "dimensions": [
+                1296,
+                715
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RBPU7L3"
+        },
+        {
+            "filename": "img-heading.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-heading.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                }
+            ],
+            "filesize": 8917,
+            "dimensions": [
+                365,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img_Event-UTVGZLZ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-UTVGZLZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-details.json",
+                    "name": "Portfolio Details"
+                },
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 73238,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UTVGZLZ"
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-1.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-2.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-2.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-3.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-3.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-6.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-6.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-8.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-8.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-11.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-11.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_Teamdetails-NY3JCZP.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Teamdetails-NY3JCZP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                }
+            ],
+            "filesize": 204817,
+            "dimensions": [
+                525,
+                555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NY3JCZP"
+        },
+        {
+            "filename": "img_Teamdetails-8FB3JKJ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Teamdetails-8FB3JKJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                }
+            ],
+            "filesize": 28450,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8FB3JKJ"
+        },
+        {
+            "filename": "placeholder-15.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-15.png",
+            "templates": [
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-16.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-16.png",
+            "templates": [
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-team-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-team-01.png",
+            "templates": [
+                {
+                    "source": "templates\/team-details.json",
+                    "name": "Team Details"
+                }
+            ],
+            "filesize": 2523,
+            "dimensions": [
+                106,
+                101
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "bg-col-slider.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-col-slider.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 442002,
+            "dimensions": [
+                942,
+                1269
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "placeholder-23.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-23.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-24.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-24.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-25.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-25.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-26.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-26.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-faq-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-05.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 2592,
+            "dimensions": [
+                96,
+                90
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-faq-08.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-08.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 485,
+            "dimensions": [
+                20,
+                20
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-faq-07.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-07.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 1014,
+            "dimensions": [
+                85,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-faq-06.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-06.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 231,
+            "dimensions": [
+                20,
+                20
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_bg_Faq-RXYT7DT.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_bg_Faq-RXYT7DT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 150138,
+            "dimensions": [
+                1920,
+                883
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RXYT7DT"
+        },
+        {
+            "filename": "icon-faq-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-01.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 1800,
+            "dimensions": [
+                32,
+                95
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-faq-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-04.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 530,
+            "dimensions": [
+                25,
+                25
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_Faq-RFF7NF5.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Faq-RFF7NF5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 357508,
+            "dimensions": [
+                517,
+                764
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RFF7NF5"
+        },
+        {
+            "filename": "icon-faq-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-03.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 222,
+            "dimensions": [
+                15,
+                15
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-faq-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-faq-02.png",
+            "templates": [
+                {
+                    "source": "templates\/our-faq.json",
+                    "name": "Our Faq"
+                }
+            ],
+            "filesize": 1550,
+            "dimensions": [
+                90,
+                85
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_Event-YN9DL7N.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-YN9DL7N.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 59542,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YN9DL7N"
+        },
+        {
+            "filename": "img_Event-5R4YBMZ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-5R4YBMZ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 114498,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5R4YBMZ"
+        },
+        {
+            "filename": "img_Event-A3H7N4X.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-A3H7N4X.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 117906,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A3H7N4X"
+        },
+        {
+            "filename": "img-event-05.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-event-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 113058,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_Event-GQBVGYQ.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-GQBVGYQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 85235,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GQBVGYQ"
+        },
+        {
+            "filename": "img_Event-TT8VWNX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-TT8VWNX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 58631,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TT8VWNX"
+        },
+        {
+            "filename": "img-event-08.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-event-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 142095,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "img_Event-XCZ4BYA.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-XCZ4BYA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 77798,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XCZ4BYA"
+        },
+        {
+            "filename": "img_Event-TH5Y9TX.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-TH5Y9TX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 81545,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TH5Y9TX"
+        },
+        {
+            "filename": "img_Event-PXG3EJ5.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Event-PXG3EJ5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 125183,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PXG3EJ5"
+        },
+        {
+            "filename": "img-event-12.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-event-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-events.json",
+                    "name": "Our Events"
+                }
+            ],
+            "filesize": 111167,
+            "dimensions": [
+                366,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/"
+        },
+        {
+            "filename": "bg-banner-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-banner-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 389819,
+            "dimensions": [
+                630,
+                607
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "icon-provide-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 507,
+            "dimensions": [
+                77,
+                17
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-provide-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-provide-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 518,
+            "dimensions": [
+                25,
+                25
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_Home02-SYPA3KE.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_Home02-SYPA3KE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 74864,
+            "dimensions": [
+                795,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SYPA3KE"
+        },
+        {
+            "filename": "img_bg_offer_Home02-3E8FKD2..jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_bg_offer_Home02-3E8FKD2..jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 8363,
+            "dimensions": [
+                415,
+                117
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3E8FKD2"
+        },
+        {
+            "filename": "img_testimonial_Home02-CQQHMPL.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_testimonial_Home02-CQQHMPL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-02.json",
+                    "name": "Home 02"
+                }
+            ],
+            "filesize": 364095,
+            "dimensions": [
+                683,
+                730
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CQQHMPL"
+        },
+        {
+            "filename": "bg-banner-home-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-banner-home-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 106171,
+            "dimensions": [
+                1920,
+                1142
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img-Home-MLZYHB4.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-Home-MLZYHB4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 163453,
+            "dimensions": [
+                837,
+                729
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MLZYHB4"
+        },
+        {
+            "filename": "icon-coach-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-coach-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6157,
+            "dimensions": [
+                60,
+                71
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-coach-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-coach-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5065,
+            "dimensions": [
+                62,
+                71
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-coach-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-coach-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 2755,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-coach-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-coach-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 5814,
+            "dimensions": [
+                59,
+                71
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_about_Home01-PCXJHSB.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_about_Home01-PCXJHSB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 232165,
+            "dimensions": [
+                639,
+                639
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCXJHSB"
+        },
+        {
+            "filename": "img_about_Home01-9YVC6UG.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_about_Home01-9YVC6UG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 44617,
+            "dimensions": [
+                214,
+                214
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9YVC6UG"
+        },
+        {
+            "filename": "bg-team-member.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-team-member.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 96197,
+            "dimensions": [
+                1920,
+                1483
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "shape-04.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 3121,
+            "dimensions": [
+                111,
+                105
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "img_professional_Home01-KR88FYP.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_professional_Home01-KR88FYP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 69937,
+            "dimensions": [
+                312,
+                264
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KR88FYP"
+        },
+        {
+            "filename": "shape-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 266,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 794,
+            "dimensions": [
+                127,
+                22
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                },
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 1136,
+            "dimensions": [
+                22,
+                128
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-29.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-29.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-30.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-30.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-31.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-31.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-32.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-32.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-33.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-33.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-34.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-34.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-section-newsletter.jpg",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/bg-section-newsletter.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 52627,
+            "dimensions": [
+                1920,
+                536
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "shape-05.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/shape-05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 887,
+            "dimensions": [
+                108,
+                19
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_offer_MU695TR.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img_offer_MU695TR.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 454455,
+            "dimensions": [
+                814,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MU695TR"
+        },
+        {
+            "filename": "icon-shape-03.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-shape-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 395,
+            "dimensions": [
+                35,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-shape-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-shape-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 818,
+            "dimensions": [
+                38,
+                38
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-shape-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-shape-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-01.json",
+                    "name": "Home 01"
+                }
+            ],
+            "filesize": 625,
+            "dimensions": [
+                50,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-app-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-app-01.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer Style 03"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 4308,
+            "dimensions": [
+                130,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-app-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-app-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-03.json",
+                    "name": "Footer Style 03"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 6411,
+            "dimensions": [
+                126,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img-footer-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/img-footer-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 24199,
+            "dimensions": [
+                795,
+                488
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.istockphoto.com\/"
+        },
+        {
+            "filename": "logo-footer.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/logo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 2169,
+            "dimensions": [
+                188,
+                35
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "icon-footer-01.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-footer-01.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 323,
+            "dimensions": [
+                15,
+                15
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon-footer-02.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/icon-footer-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-01.json",
+                    "name": "Footer Style 01"
+                }
+            ],
+            "filesize": 1120,
+            "dimensions": [
+                18,
+                107
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "placeholder-7.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-7.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-10.png",
+            "thumbnail_url": "https:\/\/demothemesflat.co\/wellcokit\/wp-content\/uploads\/2023\/03\/placeholder-10.png",
+            "templates": [
+                {
+                    "source": "templates\/our-pricing.json",
+                    "name": "Our Pricing"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+.ct-countdown-layout1 {
+	display: flex;
+	&.style1 {
+		@include font-family-heading($heading_default_font);
+		font-weight: 700;
+		margin: 0 -35px;
+		@media #{$max-lg} {
+			margin: 0 -18px;
+		}
+		@media #{$max-sm} {
+			margin: 0 -12px;
+		}
+		.countdown-amount {
+			font-size: 44px;
+			line-height: 1;
+			color: #1b2336;
+			margin-bottom: 3px;
+			@media #{$max-lg} {
+				font-size: 32px;
+			}
+			@media #{$max-sm} {
+				font-size: 24px;
+			}
+		}
+		.countdown-period {
+			font-size: 16px;
+			text-transform: uppercase;
+			@media #{$max-lg} {
+				font-size: 14px;
+			}
+			@media #{$max-sm} {
+				font-size: 13px;
+			}
+		}
+		.countdown-item {
+			padding: 0 35px;
+			text-align: center;
+			position: relative;
+			@media #{$max-lg} {
+				padding: 0 18px;
+			}
+			@media #{$max-sm} {
+				padding: 0 12px;
+			}
+		}
+		.space-dots {
+			width: 9px;
+			height: 32px;
+			position: absolute;
+			top: 50%;
+			@include transform(translate(0, -50%));
+			right: -4px;
+			@media #{$max-sm} {
+				display: none;
+			}
+			&:before, &:after {
+				content: '';
+				width: 9px;
+				height: 9px;
+				border: 2px solid #bbbec7;
+				position: absolute;
+				left: 0;
+				@include border-radius(9px);
+			}
+			&:before {
+				top: 0;
+			}
+			&:after {
+				bottom: 0;
+			}
+		}
+	}
+	&.style2 {
+		flex-wrap: nowrap;
+		align-items: center;
+		font-size: 16px;
+		font-weight: 800;
+		color: #1b2336;
+		background-color: #fff;
+		line-height: 27px;
+		padding: 0 10px;
+		@include border-radius(6px);
+		.countdown-period {
+			display: none;
+		}
+		.countdown-item {
+			padding: 0 8px;
+			position: relative;
+			&:before {
+				content: ':';
+				position: absolute;
+				top: 0%;
+				right: -2px;
+			}
+			&:last-child:before {
+				display: none;
+			}
+		}
+	}
+}
